@@ -1,2 +1,6 @@
 # Java
 *.class
+
+# IDEA
+.idea/
+head_first_java.iml
