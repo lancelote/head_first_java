@@ -10,3 +10,24 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [If Statement](chapter1/IfTest.java)
   - [If and Else](chapter1/IfTest2.java)
   - [Home Work 1 - DooBeeDo](chapter1/DooBee.java)
+  - [Home Work 2 - BeerSong](chapter1/BeerSong.java)
+
+## Notes
+
+To compile:
+
+```bash
+javac HelloWorld.java
+```
+
+To execute:
+
+```bash
+java HelloWorld.class
+```
+
+or if `*.class` file is stored inside different directory:
+
+```bash
+java -classpath directory HelloWorld.class
+```
