@@ -13,6 +13,7 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [HomeWork 2 - BeerSong](chapter1/BeerSong.java)
   - [Arrays (Indexes and Length), Random and First Type Case](chapter1/PhraseOMatic.java)
   - [HomeWork 3 - Shuffle1](chapter1/Shuffle1.java)
+  - [HomeWork 3 - PoolPuzzleOne](chapter1/PoolPuzzleOne.java)
 
 ## Notes
 
