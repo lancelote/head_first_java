@@ -1,4 +1,4 @@
-class IfTest2 {
+public class IfTest2 {
     public static void main(String[] args) {
         int x = 2;
         if (x == 3) {

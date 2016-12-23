@@ -9,9 +9,10 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [While Loop](chapter1/WhileExample.java)
   - [If Statement](chapter1/IfTest.java)
   - [If and Else](chapter1/IfTest2.java)
-  - [Home Work 1 - DooBeeDo](chapter1/DooBee.java)
-  - [Home Work 2 - BeerSong](chapter1/BeerSong.java)
+  - [HomeWork 1 - DooBeeDo](chapter1/DooBee.java)
+  - [HomeWork 2 - BeerSong](chapter1/BeerSong.java)
   - [Arrays (Indexes and Length), Random and First Type Case](chapter1/PhraseOMatic.java)
+  - [HomeWork 3 - Shuffle1](chapter1/Shuffle1.java)
 
 ## Notes
 
