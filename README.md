@@ -15,6 +15,9 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [HomeWork 3 - Shuffle1](chapter1/Shuffle1.java)
   - [HomeWork 3 - PoolPuzzleOne](chapter1/PoolPuzzleOne.java)
 
+- Chapter 2
+  - [Multiple Classes](chapter2/Dog.java)
+
 ## Notes
 
 To compile:
