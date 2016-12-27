@@ -16,7 +16,9 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [HomeWork 3 - PoolPuzzleOne](chapter1/PoolPuzzleOne.java)
 
 - Chapter 2
-  - [Multiple Classes](chapter2/Dog.java)
+  - [Multiple Classes](chapter2/DogTestDrive.java)
+  - [Class Fields and Methods](chapter2/MovieTestDrive.java)
+  - [Sample Guess Game](chapter2/GameLauncher.java)
 
 ## Notes
 

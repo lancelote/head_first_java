@@ -10,7 +10,7 @@ class Dog {
 }
 
 
-class DogTestDrive {
+public class DogTestDrive {
 
     public static void main (String[] args) {
         Dog dog = new Dog();
