@@ -19,6 +19,8 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [Multiple Classes](chapter2/DogTestDrive.java)
   - [Class Fields and Methods](chapter2/MovieTestDrive.java)
   - [Sample Guess Game](chapter2/GameLauncher.java)
+  - [HomeWork 4 - DrumKitTestDrive](chapter2/DrumKitTestDrive.java)
+  - [HomeWork 5 - EchoTestDrive](chapter2/EchoTestDrive.java)
 
 ## Notes
 
