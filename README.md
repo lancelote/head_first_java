@@ -22,10 +22,13 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [HomeWork 4 - DrumKitTestDrive](chapter2/DrumKitTestDrive.java)
   - [HomeWork 5 - EchoTestDrive](chapter2/EchoTestDrive.java)
 
-- Chapter3
+- Chapter 3
   - [Arrays and References](chapter3/Doggie.java)
   - [HomeWork 6 - TestArrays](chapter3/TestArrays.java)
   - [HomeWork 7 - Triangle](chapter3/Triangle.java)
+
+- Chapter 4
+  - [Methods and Object Condition](chapter4/DogTestDrive2.java)
 
 ## Notes
 
