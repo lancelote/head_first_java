@@ -29,6 +29,10 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
 
 - Chapter 4
   - [Methods and Object Condition](chapter4/DogTestDrive2.java)
+  - [Getters and Setters](chapter4/ElectricGuitar.java)
+  - [Incapsulation](chapter4/GoodDogTestDrive.java)
+  - [Uninitialized Fields](chapter4/PoorDogTestDrive.java)
+  - [HomeWork 8  - Puzzle4](chapter4/Puzzle4.java)
 
 ## Notes
 
