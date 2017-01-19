@@ -35,7 +35,7 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [HomeWork 8  - Puzzle4](chapter4/Puzzle4.java)
 
 -Chapter 5
-  - 
+  - Simple Game with OOP: [SimpleDotCom](chapter5/SimpleDotCom.java) and [SimpleDotComGame](chapter5/SimpleDotComGame.java)
 
 ## Notes
 
