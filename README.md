@@ -36,6 +36,7 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
 
 -Chapter 5
   - Simple Game with OOP: [SimpleDotCom](chapter5/SimpleDotCom.java) and [SimpleDotComGame](chapter5/SimpleDotComGame.java)
+  - [User Input Handling](chapter5/GameHelper.java)
 
 ## Notes
 
