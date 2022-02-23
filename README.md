@@ -14,29 +14,38 @@ Code from [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/
   - [Arrays (Indexes and Length), Random and First Type Case](chapter1/PhraseOMatic.java)
   - [HomeWork 3 - Shuffle1](chapter1/Shuffle1.java)
   - [HomeWork 3 - PoolPuzzleOne](chapter1/PoolPuzzleOne.java)
-
 - Chapter 2
   - [Multiple Classes](chapter2/DogTestDrive.java)
   - [Class Fields and Methods](chapter2/MovieTestDrive.java)
   - [Sample Guess Game](chapter2/GameLauncher.java)
   - [HomeWork 4 - DrumKitTestDrive](chapter2/DrumKitTestDrive.java)
   - [HomeWork 5 - EchoTestDrive](chapter2/EchoTestDrive.java)
-
 - Chapter 3
   - [Arrays and References](chapter3/Doggie.java)
   - [HomeWork 6 - TestArrays](chapter3/TestArrays.java)
   - [HomeWork 7 - Triangle](chapter3/Triangle.java)
-
 - Chapter 4
   - [Methods and Object Condition](chapter4/DogTestDrive2.java)
   - [Getters and Setters](chapter4/ElectricGuitar.java)
   - [Incapsulation](chapter4/GoodDogTestDrive.java)
   - [Uninitialized Fields](chapter4/PoorDogTestDrive.java)
   - [HomeWork 8  - Puzzle4](chapter4/Puzzle4.java)
-
 -Chapter 5
   - Simple Game with OOP: [SimpleDotCom](chapter5/SimpleDotCom.java) and [SimpleDotComGame](chapter5/SimpleDotComGame.java)
   - [User Input Handling](chapter5/GameHelper.java)
+- Chapter 6
+- Chapter 7
+- Chapter 8
+- Chapter 9
+- Chapter 10
+- Chapter 11
+- Chapter 12
+- Chapter 13
+- Chapter 14
+- Chapter 15
+- Chapter 16
+- Chapter 17
+- Chapter 18
 
 ## Notes
 
